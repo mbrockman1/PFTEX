@@ -1,0 +1,4 @@
+tabula==1.0.5
+tabula-py==2.5.1
+pandas==1.4.3
+PyPDF2==2.10.4
